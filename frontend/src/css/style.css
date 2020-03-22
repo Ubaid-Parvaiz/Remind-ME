@@ -1,0 +1,11 @@
+.container {
+	margin: 100px 50px;
+	background:#fff;
+	padding:30px 20px;
+	box-shadow:1px 1px 25px #1b1b1b;
+}
+
+.btn-reminder{
+	color: #89216B;  /* fallback for old browsers */
+   
+}
